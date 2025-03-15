@@ -1,0 +1,8 @@
+transformers
+torch
+bitsandbytes
+youtube-transcript-api
+huggingface_hub
+git+https://github.com/huggingface/accelerate
+groq
+streamlit
