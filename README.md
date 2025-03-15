@@ -51,13 +51,13 @@ pip install -r requirements.txt
 ## Example Output
 ```bash
 ### Extracted Transcript
-![Initial Page](screenshots/Initial_interface.png)
+![Initial Page](screenshot/Initial_interface.png)
 
 ### Translated Text
-![Transcript Screenshot](screenshots/transcript.png)
+![Transcript Screenshot](screenshot/transcript.png)
 
 ### Generated Summary
-![Translated & Summarised text Screenshot](screenshots/Translated_text_Summary.png)
+![Translated & Summarised text Screenshot](screenshot/Translated_text_Summary.png)
 ```
 
 ## API Requirements
