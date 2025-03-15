@@ -50,7 +50,14 @@ pip install -r requirements.txt
 
 ## Example Output
 ```bash
-_Screenshots will be added here._
+### Extracted Transcript
+![Initial Page](screenshots/Initial_interface.png)
+
+### Translated Text
+![Transcript Screenshot](screenshots/transcript.png)
+
+### Generated Summary
+![Translated & Summarised text Screenshot](screenshots/Translated_text_Summary.png)
 ```
 
 ## API Requirements
