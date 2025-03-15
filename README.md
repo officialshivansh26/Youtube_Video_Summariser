@@ -50,13 +50,13 @@ pip install -r requirements.txt
 
 ## Example Output
 
-### Extracted Transcript
+### Initial Page
 ![Initial Page](screenshot/Initial_interface.png)
 
-### Translated Text
+### Transcript Text
 ![Transcript Screenshot](screenshot/transcript.png)
 
-### Generated Summary
+### Generated Translation & Summary
 ![Translated & Summarised text Screenshot](screenshot/Translated_text_Summary.png)
 
 
