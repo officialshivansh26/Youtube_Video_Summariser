@@ -5,7 +5,7 @@ This is a Streamlit-based web application that extracts transcripts from YouTube
 ## Features
 - Extracts transcripts from YouTube videos
 - Automatically detects the transcript language
-- Translates transcripts into English (if needed)
+- Can support video language processing in Indian languages, with the flexibility to add more as needed.
 - Generates concise summaries using LLaMA-3.3-70B model via Groq API
 
 ## Installation
