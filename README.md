@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ```
 
 ## Example Output
-```bash
+
 ### Extracted Transcript
 ![Initial Page](screenshot/Initial_interface.png)
 
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ### Generated Summary
 ![Translated & Summarised text Screenshot](screenshot/Translated_text_Summary.png)
-```
+
 
 ## API Requirements
 ```bash
